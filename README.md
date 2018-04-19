@@ -25,7 +25,7 @@ These final projects solve a data-intensive or a compute-intensive problem with 
 |3 | TITLE | MEMBERS | README_URL |
 |4 | TITLE | MEMBERS | README_URL |
 |5 | TITLE | MEMBERS | README_URL |
-|6 | new | MEMBERS | README_URL |
+|6 | Parallel Rayleigh-Benard Convection | Shaan Desai, Yaniv Toledano, Bernard Kleynhans, Sebastien Lemieux-codere | README_URL |
 |7 | TITLE | MEMBERS | README_URL |
 |8 | TITLE | MEMBERS | README_URL |
 |9 | TITLE | MEMBERS | README_URL |
