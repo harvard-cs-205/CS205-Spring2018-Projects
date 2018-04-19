@@ -20,4 +20,19 @@ These final projects solve a data-intensive or a compute-intensive problem with 
 
 | Group Number | Project Title | Team | Website 
 | ------------ | --------- | --------- | -------- | 
-|1 | Giant Sudoku Solver| Shiyun Qiu, Xiangru Shu, Yiqi Xie, Yuyue Wang | URL |
+|1 | Giant Sudoku Solver| Shiyun Qiu, Xiangru Shu, Yiqi Xie, Yuyue Wang | README_URL |
+|2 | TITLE | MEMBERS | README_URL |
+|3 | TITLE | MEMBERS | README_URL |
+|4 | TITLE | MEMBERS | README_URL |
+|5 | TITLE | MEMBERS | README_URL |
+|6 | TITLE | MEMBERS | README_URL |
+|7 | TITLE | MEMBERS | README_URL |
+|8 | TITLE | MEMBERS | README_URL |
+|9 | TITLE | MEMBERS | README_URL |
+|10 | TITLE | MEMBERS | README_URL |
+|11 | TITLE | MEMBERS | README_URL |
+|12 | TITLE | MEMBERS | README_URL |
+|13 | TITLE | MEMBERS | README_URL |
+|14 | TITLE | MEMBERS | README_URL |
+
+
