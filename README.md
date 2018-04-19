@@ -18,6 +18,8 @@ These final projects solve a data-intensive or a compute-intensive problem with 
 
 ## Spring 2018 Projects
 
+Presented on 10 May 2018
+
 | Group Number | Project Title | Team | Website 
 | ------------ | --------- | --------- | -------- | 
 |1 | Giant Sudoku Solver| Shiyun Qiu, Xiangru Shu, Yiqi Xie, Yuyue Wang | README_URL |
