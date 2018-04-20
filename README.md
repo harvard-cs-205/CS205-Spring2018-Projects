@@ -23,18 +23,18 @@ Presented on 10 May 2018
 | Group Number | Project Title | Team | Website 
 | ------------ | --------- | --------- | -------- | 
 |1 | Giant Sudoku Solver| Shiyun Qiu, Xiangru Shu, Yiqi Xie, Yuyue Wang | README_URL |
-|2 | TITLE | MEMBERS | README_URL |
-|3 | TITLE | MEMBERS | README_URL |
-|4 | TITLE | MEMBERS | README_URL |
-|5 | TITLE | MEMBERS | README_URL |
+|2 | Real-time Tweet and Google trend analysis | Andrea Porelli, Yujiao Chen, Timothy Lee | README_URL |
+|3 | Genomic Sequencing Parallelization | Kar-Tong Tan, Nripsuta Saxena, Divyam Misra, Andrew Lund | README_URL |
+|4 | Real-time Image stitching and stabilization | MEMBERS | README_URL |
+|5 | Parallelize 2D Optical Flow Estimation Algorithm on Video | MEMBERS | README_URL |
 |6 | Parallel Rayleigh-Benard Convection | Shaan Desai, Yaniv Toledano, Bernard Kleynhans, Sebastien Lemieux-codere | README_URL |
-|7 | TITLE | MEMBERS | README_URL |
-|8 | TITLE | MEMBERS | README_URL |
-|9 | TITLE | MEMBERS | README_URL |
-|10 | TITLE | MEMBERS | README_URL |
-|11 | TITLE | MEMBERS | README_URL |
-|12 | TITLE | MEMBERS | README_URL |
-|13 | TITLE | MEMBERS | README_URL |
-|14 | TITLE | MEMBERS | README_URL |
+|7 | Intercomparison of Historical Temperature Anomolies in Climate Models | MEMBERS | README_URL |
+|8 | Transition Metal Dichalcogenide Interlayer Coupling Database | MEMBERS | README_URL |
+|9 | Parallelization of Data Preprocessing for Zoba, Inc. | MEMBERS | README_URL |
+|10 | Distributed N-body astrophysical simulations using MPI | MEMBERS | README_URL |
+|11 | Coordinated Sampler | MEMBERS | README_URL |
+|12 | Parallelization and Optimization of Goldbach's Conjecture | MEMBERS | README_URL |
+|13 | Parallelization and Optimization of Multigrid Solver | MEMBERS | README_URL |
+|14 | Understanding Economic Complexity | MEMBERS | README_URL |
 
 
