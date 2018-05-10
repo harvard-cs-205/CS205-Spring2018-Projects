@@ -31,7 +31,7 @@ Presented on 10 May 2018
 |7 | Intercomparison of Historical Temperature Anomolies in Climate Models | Peter Sherman, Matt Stewart, Eimy Bonilla | README_URL |
 |8 | Transition Metal Dichalcogenide Interlayer Coupling Database | Shiang Fang, Steven Torrisi, Tianning Zhao, Eri Muramoto | README_URL |
 |9 | Parallelization of Data Preprocessing for Zoba, Inc. | Nate Stein, Justin Lee | README_URL |
-|10 | Distributed N-body astrophysical simulations using MPI | Ben Cook, Harshil Kamdar, Ana-Roxana Pop | README_URL |
+|10 | Distributed N-body astrophysical simulations using MPI | Ben Cook, Harshil Kamdar, Ana-Roxana Pop | [GitHub](https://github.com/bacook17/behalf), [Website](https://anaroxanapop.github.io/behalf/) |
 |11 | Coordinated Sampler | Joel Dapello, Rui Fang, Erick Garcia, Zach Ward | [GitHub](https://github.com/ericktgarcia/CS205FinalProject) |
 |12 | Parallelization and Optimization of Goldbach's Conjecture | Daniel Varon, Ada Shaw | README_URL |
 |13 | Parallelization and Optimization of Multigrid Solver | Luna Lin | [GitHub](https://github.com/1noodledeep/mpi_multigrid/), [Website](https://ylunalin.wordpress.com/2018/04/12/gpu-accelerated-mpi-multigrid-solver) |
