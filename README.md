@@ -35,6 +35,6 @@ Presented on 10 May 2018
 |11 | Coordinated Sampler | Joel Dapello, Rui Fang, Erick Garcia, Zach Ward | [GitHub](https://github.com/ericktgarcia/CS205FinalProject) |
 |12 | Parallelization and Optimization of Goldbach's Conjecture | Daniel Varon, Ada Shaw | [GitHub](https://github.com/ardwwa/Goldbach/blob/master/README.md) |
 |13 | Parallelization and Optimization of Multigrid Solver | Luna Lin | [GitHub](https://github.com/1noodledeep/mpi_multigrid/), [Website](https://ylunalin.wordpress.com/2018/04/12/gpu-accelerated-mpi-multigrid-solver) |
-|14 | Understanding Economic Complexity | Mali Akmanalp | README_URL |
+|14 | Understanding Economic Complexity | Mali Akmanalp | [Website](https://docs.google.com/document/d/e/2PACX-1vQSnSnwgNdOoA3waZmzwjRxuWSpcDL7lnk95VsmW78u0KGeAMzXmCotoQS0mz7YD3Cj2-akndibrC8S/pub) [GitHub](https://github.com/makmanalp/cs205) |
 
 
