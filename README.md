@@ -23,7 +23,7 @@ Presented on 10 May 2018
 | Group Number | Project Title | Team | Website 
 | ------------ | --------- | --------- | -------- | 
 |1 | Parallelized Giant Sudoku Solver| Shiyun Qiu, Xiangru Shu, Yiqi Xie, Yuyue Wang | [GitHub](https://github.com/shiyunqiu/CS205_Sudoku), [Website](https://clairewangyuyue.github.io/CS205_G1.github.io/) |
-|2 | Real-time Tweet and Google trend analysis | Andrea Porelli, Yujiao Chen, Timothy Lee | README_URL | 
+|2 | Real-time Tweet and Google trend analysis | Andrea Porelli, Yujiao Chen, Timothy Lee | [GitHub)(https://github.com/lee709/twitter_stream)| 
 |3 | Genomic Sequencing Analysis Parallelization | Kar-Tong Tan, Nripsuta Saxena, Divyam Misra, Andrew Lund | [GitHub](https://github.com/AndrewPaulLund/cs205project) |
 |4 | Real-time Image stitching and stabilization | Ziqi Guo, Weihang Zhang, Xuefeng Peng, Jiacheng Shi | [GitHub](https://github.com/ziqiguo/CS205-ImageStitching), [Website](https://cs205-stitching.github.io) |
 |5 | Parallelize 2D Optical Flow Estimation Algorithm on Video | Shiyu Huang, Hongxiang Qiu, Zeyu Zhao, Zongren Zou | [GitHub](https://github.com/zeruniverse/CS205-project), [Website](https://zeruniverse.github.io/CS205-project/) |
