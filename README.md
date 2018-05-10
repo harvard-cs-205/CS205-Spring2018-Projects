@@ -28,7 +28,7 @@ Presented on 10 May 2018
 |4 | Real-time Image stitching and stabilization | Ziqi Guo, Weihang Zhang, Xuefeng Peng, Jiacheng Shi | [GitHub](https://github.com/ziqiguo/CS205-ImageStitching), [Website](https://cs205-stitching.github.io) |
 |5 | Parallelize 2D Optical Flow Estimation Algorithm on Video | Shiyu Huang, Hongxiang Qiu, Zeyu Zhao, Zongren Zou | [GitHub](https://github.com/zeruniverse/CS205-project), [Website](https://zeruniverse.github.io/CS205-project/) |
 |6 | Parallel Rayleigh-Benard Convection | Shaan Desai, Yaniv Toledano, Bernard Kleynhans, Sebastien Lemieux-codere | [GitHub](https://github.com/toledy/ParallelRayleighBenardConvection), [Website](https://toledy.github.io/ParallelRayleighBenardConvection/)|
-|7 | Intercomparison of Historical Temperature Anomolies in Climate Models | Peter Sherman, Matt Stewart, Eimy Bonilla | README_URL |
+|7 | Intercomparison of Historical Temperature Anomolies in Climate Models | Peter Sherman, Matt Stewart, Eimy Bonilla | [GitHub](https://github.com/ebonil01/cs205project) |
 |8 | Transition Metal Dichalcogenide Interlayer Coupling Database | Shiang Fang, Steven Torrisi, Tianning Zhao, Eri Muramoto | [Github](https://github.com/stevetorr/wannier_shift) [Website](https://stevetorr.github.io/wannier_shift/header) |
 |9 | Parallelization of Data Preprocessing for Zoba, Inc. | Nate Stein, Justin Lee | README_URL |
 |10 | Distributed N-body astrophysical simulations using MPI | Ben Cook, Harshil Kamdar, Ana-Roxana Pop | [GitHub](https://github.com/bacook17/behalf), [Website](https://anaroxanapop.github.io/behalf/) |
